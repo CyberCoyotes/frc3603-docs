@@ -14,3 +14,4 @@ If you found this helpful, spotted a mistake, or have a suggestion, please drop 
    :depth: 2
    
    controls
+   style-conventions
