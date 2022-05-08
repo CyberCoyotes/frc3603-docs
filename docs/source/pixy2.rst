@@ -1,5 +1,5 @@
 Pixy2
------
+====
 
 -  `Pixy2 -
    wiki <https://github.com/CyberCoyotes/Handbook/wiki/Pixy2>`__.

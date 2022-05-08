@@ -12,9 +12,3 @@ Table of Contents
 .. toctree::
    
    controls
-   
-   motion-profiling
-   
-   pixy2
-   
-   style-conventions
