@@ -19,4 +19,6 @@ Table of Contents
    
    motion-profiling
    
+   pixy2
+   
    style-conventions
