@@ -1,7 +1,7 @@
-Welcome to FRC 3603, Cyber Coyotes's Handbook
+Cyber Coyotes's Handbook
 ===================================
 
-
+Welcome to the handbook and documentation place for FRC 3603, the Cyber Coyotes.
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
 
