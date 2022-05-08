@@ -11,5 +11,3 @@ Contents
 --------
 
 .. toctree::
-
-   controls
