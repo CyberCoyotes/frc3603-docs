@@ -17,4 +17,6 @@ Table of Contents
    
    controls
    
+   motion-profiling
+   
    style-conventions
