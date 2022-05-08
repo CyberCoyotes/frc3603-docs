@@ -15,3 +15,4 @@ Contents
 .. toctree::
 
    controls
+   usage
