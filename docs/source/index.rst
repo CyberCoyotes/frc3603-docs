@@ -10,7 +10,7 @@ If you found this helpful, spotted a mistake, or have a suggestion, please drop 
 
    This project is under active development.
 
-.. contents:: Table of Contents
+.. contents::
    :depth: 2
    
    controls
