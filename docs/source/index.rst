@@ -10,7 +10,7 @@ If you found this helpful, spotted a mistake, or have a suggestion, please drop 
 
    This project is under active development.
 
-.. toctree:: Table of Contents
+.. contents:: Table of Contents
    :depth: 2
    
    controls
