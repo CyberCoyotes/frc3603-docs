@@ -3,8 +3,8 @@
 # -- Project information
 
 project = 'FRC 3603'
-copyright = '2021, Graziella'
-author = 'Jedi Master Scoy'
+copyright = '3603'
+author = 'Wile E. Coyote'
 
 release = '0.1'
 version = '0.1.0'
