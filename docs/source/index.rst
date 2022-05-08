@@ -14,5 +14,4 @@ Contents
 
 .. toctree::
 
-   controls
-   usage
+   doc:'controls'
