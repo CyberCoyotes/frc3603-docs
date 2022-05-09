@@ -32,4 +32,3 @@ Predicate predicate = str -> longExpressionInvolving(str); Note: The primary goa
 When there are multiple continuation lines, indentation may be varied beyond +4 as desired. In general, two continuation lines use the same indentation level if and only if they begin with syntactically parallel elements.
 
 Section 4.6.3 on Horizontal alignment addresses the discouraged practice of using a variable number of spaces to align certain tokens with previous lines.
-
