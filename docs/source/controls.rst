@@ -16,6 +16,8 @@ controls in the FRC setting.
     power-distribution-hub
     
     pixy2
+
+    code-examples
    
     style-conventions
 
