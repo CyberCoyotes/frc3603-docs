@@ -1,4 +1,4 @@
-Controls
+Controls Team
 ============
 
 We are creating this section of the handbook to our FTC team coaches,

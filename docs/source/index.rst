@@ -12,4 +12,6 @@ Table of Contents
 
 .. toctree::
    
+   build
+   
    controls
