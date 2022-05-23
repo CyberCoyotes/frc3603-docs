@@ -24,4 +24,5 @@ Resources
 ----
 
 -  `Motion Profiling - wiki <https://github.com/CyberCoyotes/Handbook/wiki/Motion-Profiling>`_ page
--  `Telemetry docs <https://docs.wpilib.org/en/stable/docs/software/telemetry/index.html>`_.
+-  `Telemetry docs <https://docs.wpilib.org/en/stable/docs/software/telemetry/index.html>`_ docs page.
+-  `Control Modes Configuration for TalonFX and Falcon500 <https://www.chiefdelphi.com/t/control-modes-configuration-for-talonfx-and-falcon500/374704/12>`_ ChiefDelphi post.
